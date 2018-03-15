@@ -34,4 +34,5 @@ int main()
     t2 = clock();
     printf("time for sine function= %.3f s\n", (t2-t1)/(double)(CLOCKS_PER_SEC));
     return 0;
+    //test for 2nd ver. 
 }
